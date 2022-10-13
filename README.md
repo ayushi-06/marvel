@@ -1,3 +1,6 @@
-# The project is a case study on marvel characters using API calls.
-  mypackage is a folder containing functions wrapped up in modules.
+MARVEL CASE study 
+
+- The mypackage is a package module folder
+- dist folder contains the binary wheel file.
+ 
 
